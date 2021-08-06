@@ -15,24 +15,22 @@ author: bhuwan
 Written by <a href="{{ author.web }}">{{ author.name }}</a>
 </span>
 {% endif %}
-
 Hi, My name is Bhuwan and I am a software engineer with 6 years of experience. during my 6 years of career I have learned many languages and frameworks, and I figured out four simple steps to learn new programming language which i am going to share with you.
 
-### Find out Why language or framework is created ?
+### 1. Find out why language or framework is created ?
 
 First step find out why the language or framework is created and which domain it covers. it will help you to better understand the language.
 
-### Go through essential training.
+### 2. Go through essential training.
 
 Go through essential training. Practice basic syntax and commonly used data structures, loops and functions etc. Don't spent  much time in this. just go through each of these once.
 
-### Dive into code.
+### 3. Dive into code.
 
 If you are learning new programming language then I am pretty sure you have some project do in this programming language. Straight start working on your task doesn't matter its old code or completely fresh code. For sure you will start facing problems, and now you have to figure out what are the different things you need to learn in order to complete that task. Break those tasks in smaller pieces, and start learning things in order to complete those task and try to make real progress. Repeat this process for each smaller task. Sometimes you need help then ask a friend for help, or just use stack-overflow or other platform to get help.
 
-### Review your old code and improve.
+### 4. Review your old code and improve
 
 As per my understanding if you do something in new programming language you will make lot of mistakes and over time you understand the language better and you have better ways to do the same task its time to review your old code and refactor the old mistakes.
 
-<br>
-
+Thanks for reading and also do checkout a new notes app designed for software engineers ( Upnotes - https://upnotes.io )
