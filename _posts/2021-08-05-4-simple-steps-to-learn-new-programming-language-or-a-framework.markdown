@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "4 simple steps to learn new programming language or a framework."
+title:  "4 simple steps to learn a new programming language or a framework."
 date:   2021-08-05 07:47:56 +0530
 categories: notes
 author: bhuwan
@@ -16,13 +16,10 @@ Written by <a href="{{ author.web }}">{{ author.name }}</a>
 </span>
 {% endif %}
 
-## 
-
-## 4 simple steps to learn new programming language.
 
 Hi, My name is Bhuwan and i am a software engineer with 6 years of experience. during my 6 years of career i have learned many languages and frameworks. And I figured out four simple steps to learn new programming language which i am going to share with you. 
 
-### **Find out Why language or framework is created ?**
+### Find out Why language or framework is created ?**
 
 First step find out why the language or framework is created and which domain it covers. it will help you to better understand the language.
 
