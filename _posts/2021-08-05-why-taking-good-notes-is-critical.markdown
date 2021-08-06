@@ -16,17 +16,21 @@ Written by <a href="{{ author.web }}">{{ author.name }}</a>
 </span>
 {% endif %}
 
-Software engineers spent a lot of time investigating and figuring out how something should be done and writing final code that becomes part of your repository is just small part of the whole process. Over time I have realised that having good organisation of notes is critical for long term productivity.
+Software engineers spent a lot of time investigating and figuring out how something should be done and writing final code that becomes part of your repository is just small part of the whole process. 
+Over time, I have realised that having good organisation of notes is critical for long term productivity.
 
 There are tons of notes apps in the market with lots of different features but none of them are specifically designed for software engineers.
 
 ## Upnotes
 
-Upnotes aims to specifically design a high quality, private notes app for software engineers. Upnotes is going to have tight integration with all the tools used by software engineers. We have started with git as most of us use git for our version control.
+Upnotes aims to specifically design a high quality, private notes app for software engineers. Upnotes is going to have tight integration with all the tools used by software engineers. 
+We have started with git as most of us use git for our version control.
 
-1. We automatically create/organised notes by your repositories and auto create a new note based on your current git branch.
+1. ###### We automatically create/organised notes by your repositories and auto create a new note based on your current git branch.
 
-2. Documentation should be a natural extension of notes taken by you for your future self, that's why we have a specific area for you to write notes that should act like wiki. Eventually these notes can be shared with everyone once they reach certain maturity. Most of the projects have poor documentation and approaching documentation from the point of view of notes can solve this problem.
+2. Documentation should be a natural extension of notes taken by you for your future self, that's why we have a specific area for you to write notes that should act like wiki. 
+   Eventually these notes can be shared with everyone once they reach certain maturity. 
+   Most of the projects have poor documentation and approaching documentation from the point of view of notes can solve this problem.
 
 ## Current features
 Upnotes is just starting with few unique benefits like
@@ -44,5 +48,5 @@ Upnotes is just starting with few unique benefits like
 
 [Download now](https://upnotes.io#download)
 
-We are going to add many more features and improvements... Please join our [discord chat](https://discord.gg/ATZTMeyWsW) for updates
+We are going to add many more features and improvements... Please join our [discord chat](https://discord.gg/ATZTMeyWsW) for updates and let us know what feature you need in a notes app.
 
