@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "4 simple steps to learn a new programming language or a framework."
+title:  "4 simple steps to learn a new programming language or a framework"
 date:   2021-08-06 07:47:56 +0530
 categories: notes
 author: bhuwan
