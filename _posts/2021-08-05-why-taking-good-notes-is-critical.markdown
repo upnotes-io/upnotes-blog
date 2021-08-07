@@ -21,15 +21,16 @@ Over time, I have realised that having good organisation of notes is critical fo
 
 There are tons of notes apps in the market with lots of different features but none of them are specifically designed for software engineers.
 
-## Upnotes
+## Upnotes - A markdown first notes app for coders
 
 Upnotes aims to specifically design a high quality, private notes app for software engineers. Upnotes is going to have tight integration with all the tools used by software engineers. 
 We have started with git as most of us use git for our version control.
 
-1. ###### We automatically create/organised notes by your repositories and auto create a new note based on your current git branch.
+1. <b> We automatically create/organised notes by your repositories and auto create a new note based on your current git branch. </b>
 
-2. Documentation should be a natural extension of notes taken by you for your future self, that's why we have a specific area for you to write notes that should act like wiki. 
-   Eventually these notes can be shared with everyone once they reach certain maturity. 
+2. Documentation should be a natural extension of notes taken by you for your future self, that's why we have a specific area for you to write notes that should act like wiki.
+
+3. Eventually these notes can be shared with everyone once they reach certain maturity. 
    Most of the projects have poor documentation and approaching documentation from the point of view of notes can solve this problem.
 
 ## Current features

@@ -31,6 +31,7 @@ github_username:  upnotes-io
 theme: minima
 plugins:
   - jekyll-feed
+google_analytics: G-85NW29LBWE
 
 # Exclude from processing.
 # The following items will not be processed, by default.
