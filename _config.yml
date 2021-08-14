@@ -18,14 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Upnotes
+title: Upnotes blog
 email: admin@upnotes.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Automatically organize your software engineering notes.
+  Upnotes - A markdown first notes app for coders
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.upnotes.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: upnotes1
 github_username:  upnotes-io
+discord_server: "https://discord.gg/ATZTMeyWsW"
 
 # Build settings
 theme: minima
