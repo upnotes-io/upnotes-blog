@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "4 simple steps to learn a new programming language or a framework."
+title:  "4 simple steps to learn a new programming language or a framework"
 date:   2021-08-06 07:47:56 +0530
 categories: notes
 author: bhuwan
@@ -33,4 +33,4 @@ If you are learning new programming language then I am pretty sure you have some
 
 As per my understanding if you do something in new programming language you will make lot of mistakes and over time you understand the language better and you have better ways to do the same task its time to review your old code and refactor the old mistakes.
 
-Thanks for reading and also do checkout a new notes app designed for software engineers ([Upnotes](https://upnotes.io))
+Thanks for reading and also do checkout [Upnotes - A markdown first notes app for coders](https://upnotes.io).
