@@ -15,7 +15,7 @@ author: bhuwan
 Written by <a href="{{ author.web }}">{{ author.name }}</a>
 </span>
 {% endif %}
-Hi, My name is Bhuwan and I am a software engineer with 6 years of experience. during my 6 years of career I have learned many languages and frameworks, and I figured out four simple steps to learn new programming language which i am going to share with you.
+Hi, My name is Bhuwan, and I am a software engineer with 6 years of experience. during my 6 years of career I have learned many languages and frameworks, and I figured out four simple steps to learn new programming language which i am going to share with you.
 
 ### 1. Find out why language or framework is created ?
 
