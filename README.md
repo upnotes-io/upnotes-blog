@@ -5,4 +5,4 @@
 ```  bundle info --path minima ```
 
 ### Serve
-jekyll serve
+``` bundle exec jekyll serve ```
