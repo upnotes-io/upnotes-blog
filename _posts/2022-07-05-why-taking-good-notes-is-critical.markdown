@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why taking good notes is critical for a software developers"
+title:  "Why taking good notes is critical for a software developers?"
 date:   2022-07-05 07:47:56 +0530
 categories: notes
 author: kamal
